@@ -1,5 +1,5 @@
-### WhatsApp Chatbot Personal Assistant 
-# helps you easily remember things and organize your schedule
+# WhatsApp Chatbot Personal Assistant 
+### helps you easily remember things and organize your schedule
 
 ![Image number 1](https://github.com/IdanSchiller/WA-Personal-Assinstant/blob/main/data/Screenshot_20210427-192957.jpg width="250" height="250")
 <img src="https://github.com/IdanSchiller/WA-Personal-Assinstant/blob/main/data/Screenshot_20210427-192957.jpg" width="500" height="750">
